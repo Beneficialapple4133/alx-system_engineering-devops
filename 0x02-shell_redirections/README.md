@@ -1,1 +1,2 @@
-this readme
+#!/bin/bash
+This readme
